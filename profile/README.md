@@ -1,5 +1,6 @@
-## Jordan Lab at the University of Washington
+# Jordan Lab at the University of Washington
 
+Issues should be sent to kvhuynh820@gmail.com 
 <!--
 
 **Here are some ideas to get you started:**
